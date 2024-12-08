@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, World! I'm Kyle
 
-<!--
-**RE-mpire/Re-mpire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **student developer** focused on writing **performant and clean code**. 🚀  
+Currently, I'm on a journey to refine my skills, embrace efficient tools, and adopt better workflows.
 
-Here are some ideas to get you started:
+## 🛠️ What I'm Learning
+- **Performance Optimization**: Crafting code that runs in parallel on all cores.
+- **Vim Mastery**: I want to Vim good 🖋️
+- **Switching to Dvorak**: Typing smarter, not harder (Current WPM 70).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Technologies & Interests
+- **Languages**: Python, C/C++, Java, ARM Assembly, and Rust.
+- **Tools**: Git, Docker, Kuberneties, Google Cloud Platform, and more
+- **Areas of Interest**: Security, System Design, and Open-Source Contributions.
