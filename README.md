@@ -1,12 +1,10 @@
-# 👋 Hello, World! I'm Kyle
+# Hello, World!
 
-I'm a passionate **student developer** focused on writing **performant and clean code**. 🚀  
-Currently, I'm on a journey to refine my skills, embrace efficient tools, and adopt better workflows.
+I'm a **student developer** focused on writing **performant and clean code**.
 
 ## 🛠️ What I'm Learning
 - **Performance Optimization**: Crafting code that runs in parallel on all cores.
-- **Vim Mastery**: I want to Vim good 🖋️
-- **Switching to Dvorak**: Typing smarter, not harder (Current WPM 70).
+- **Cryptography**: Building End-To-End Secure Applicaitons
 
 ## 📚 Technologies & Interests
 - **Languages**: Python, C/C++, Java, ARM Assembly, and Rust.
